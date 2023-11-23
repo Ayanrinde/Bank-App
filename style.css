@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/Images/bg-slide-0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main{
+    background-color: rgba(0, 0, 139, 0.322);
+    height: 100vh;
+}
+
+.main1{
+    
+}
+
+.wel{
+    font-size: 40px;
+    margin-left: 180px;
+    color: orangered;
+    margin-top: 50px;
+}
+
+.wel>p{
+    font-size: 30px;
+    color: white;
+}
+
+/* .acc{
+    font-size: medium;
+    margin-top: 100px;
+    margin-right: 100px;
+} */
