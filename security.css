@@ -15,6 +15,15 @@
 
 .sec{
     padding-top: 100px;
+    text-align: center;
+}
+
+.main{
+    margin: 100px;
+}
+
+.p{
+    font-size: bold
 }
 
 
