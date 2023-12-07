@@ -35,7 +35,7 @@ h3{
     /* background-color: blue; */
     width: 380px;
     height:200px;
-    border: 1px solid red;
+    border: 1px solid orangered;
     border-radius:15px;
     text-align:center;
     padding-top:50px;
@@ -53,6 +53,73 @@ h3{
     gap:18px;
 }
 
+.pics{
+    background-color: orangered;
+    height: 500px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:18px;
+    margin-top: 30px;
+    /* align-items: center; */
+}
+
+.our{
+    height: 250px;
+    color: white;
+    padding: 80px;
+    margin-top: 10px;
+}
+
+.bus{
+    /* background-color: red; */
+    height: 250px;
+}
+
+.bus>img{
+    width: 665px;
+    margin-top: 30px;
+}
+
+.our>p{
+    font-size: 22px;
+}
+
+.pic{
+    background-color: orangered;
+    height: 500px;
+    /* display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:18px; */
+    margin-top: 30px;
+    /* align-items: center; */
+}
+
+.buss{
+    /* background-color: red; */
+    height: 250px;
+}
+
+.buss>img{
+    width: 665px;
+    padding-top: -200px;
+}
+
+.ourr{
+    height: 250px;
+    /* color: white; */
+    padding: 80px;
+    margin-top: 10px;
+}
+
+.buss{
+    /* background-color: red; */
+    height: 250px;
+}
+
+/* .ourr>p{
+    font-size: 22px;
+    margin-left: 700px;
+} */
 
 
 
